@@ -1,4 +1,4 @@
-# Node.js Express Login and Registration example with JWT 123
+# Node.js Express Login and Registration example with JWT 
 
 - Appropriate Flow for User Login and Registration with JWT Authentication
 - Node.js Express Architecture with CORS, Authentication & Authorization middlewares & Sequelize
